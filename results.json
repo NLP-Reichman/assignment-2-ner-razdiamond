@@ -10,9 +10,9 @@
     ]
   },
   "test_vocab": {
-    "length": 2,
-    "tag2id_length": 0,
-    "Spongebob": ""
+    "length": 7163,
+    "tag2id_length": 7,
+    "Spongebob": 1
   },
   "test_count_oov": {
     "dev_oov": -1,
